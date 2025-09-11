@@ -1,6 +1,5 @@
 # sql-keys-toy-dataset
 
-# SQL Keys Toy Dataset
 
 This repository contains a small **three-table dataset** used in the article  
 **[Primary vs. Foreign Keys in SQL: What Every Beginner Should Know (and How to Answer Interview Questions)](YOUR_ARTICLE_LINK_HERE)**.
