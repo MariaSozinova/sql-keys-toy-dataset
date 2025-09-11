@@ -2,7 +2,8 @@
 
 
 This repository contains a small **three-table dataset** used in the article  
-**[Primary vs. Foreign Keys in SQL: What Every Beginner Should Know (and How to Answer Interview Questions)](YOUR_ARTICLE_LINK_HERE)**.
+[**Primary vs. Foreign Keys in SQL: What Every Beginner Should Know (and How to Answer Interview Questions)**](https://medium.com/@moon2512/primary-vs-66aa0978795c)
+
 
 The goal is to help beginners practice identifying **primary keys**, **foreign keys**, and **composite keys**—just as you would when inheriting a real-world database that has **no enforced constraints**.
 
